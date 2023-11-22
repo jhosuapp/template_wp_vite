@@ -1,3 +1,4 @@
-*{
-    background-color: blue;
-}
+//BASE
+@use 'base';
+//TEMPLATES
+@use 'templates';
